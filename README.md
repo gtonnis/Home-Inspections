@@ -1,4 +1,3 @@
 # Home-Inspections
-This is a 3 page website for a home inspector. 
-(main-page, Service-page, and Contact-page)
+Home Inspector Website
 ![](home-inspect-screen-small.png)
