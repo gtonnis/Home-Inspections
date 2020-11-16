@@ -1,6 +1,6 @@
 body {
  background-image: url("images/home-background.jpg");
-  background-color: #00bfff; 
+  background-color: #1e90ff; 
     background-repeat: repeat;
     background-position: top;
     background-size:auto;
@@ -60,7 +60,7 @@ p{
   
   .navbar-nav {
     overflow: hidden;
-     background-color:  #00bfff; 
+     background-color:  #1e90ff; 
   }
   
   li a {
