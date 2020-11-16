@@ -13,7 +13,7 @@ body {
 .card-body, .card{
   border-radius: 20px;
       box-shadow: 2px 2px 2px deepskyblue; 
-    background-color: #fffff0;;
+    background-color: #fffff0;
      
 }
 
@@ -22,7 +22,7 @@ body {
   padding-top: 65px;
 }
 .header {
-    background-color: #fffff0;;
+    background-color: #fffff0;
     justify-content: center;
     padding:10px 5px 0px 5px;
        margin: auto;
